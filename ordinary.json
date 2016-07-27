@@ -1,0 +1,21 @@
+{
+  "name": "webplay",
+  "version": "0.1.0",
+  "description": "playing with the web",
+  "main": "nothing",
+  "scripts": {
+    "nodemon": "No demons here",
+    "start": "This start the thing",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "writing",
+    "and",
+    "sending",
+    "files",
+    "with",
+    "express"
+  ],
+  "author": "sach and kamon",
+  "license": "ISC"
+}

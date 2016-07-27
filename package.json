@@ -1,0 +1,26 @@
+{
+  "name": "webplay",
+  "version": "0.1.0",
+  "description": "playing with the web",
+  "main": "index.js",
+  "scripts": {
+    "nodemon": "nodemon server.js",
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "writing",
+    "and",
+    "sending",
+    "files",
+    "with",
+    "express"
+  ],
+  "author": "sach and kamon",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "nodemon": "^1.10.0"
+  }
+}
