@@ -18,7 +18,6 @@ function readAsync (callback) {
 
     ordinaryFileObj.colorOfShoes = 'red'
     ordinaryFileObj.flavourAardvark = 'Bob'
-    callback(null, contents)
-
+    callback(null, ordinaryFileObj)
   })
 }
